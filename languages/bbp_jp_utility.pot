@@ -1,0 +1,285 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: bbPress forum utility pack\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2024-04-11 02:59+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.7; wp-6.5.2\n"
+"X-Domain: bbp_jp_utility"
+
+#: bbp-jp-utility.php:450
+msgid ""
+" days are not logged in within. Delete the account that has not been "
+"recently logged in. (User posted data is replaced with anonymous)"
+msgstr ""
+
+#: bbp-jp-utility.php:435
+msgid ""
+" days are not logged in within. Remove the accounts that are not also used "
+"once after such new registration."
+msgstr ""
+
+#: bbp-jp-utility.php:957
+msgid " is your new username"
+msgstr ""
+
+#: bbp-jp-utility.php:423
+msgid ""
+" or more embedded (YouTube / X(Twitter) etc). Such a post will be treated as "
+"spam."
+msgstr ""
+
+#: bbp-jp-utility.php:422
+msgid " or more image. Such a post will be treated as spam."
+msgstr ""
+
+#: bbp-jp-utility.php:479
+msgid "[Always active functions]"
+msgstr ""
+
+#: bbp-jp-utility.php:481
+msgid ""
+"Added \"bbpress user\" (bbp_user) to user role. (same capabilities as "
+"subscriber)"
+msgstr ""
+
+#: bbp-jp-utility.php:35
+msgid "Anonymous"
+msgstr ""
+
+#: bbp-jp-utility.php:592
+msgid "Are you sure you want to unsubscribe from the forum."
+msgstr ""
+
+#: bbp-jp-utility.php:394
+msgid "Auto role of bbpress user"
+msgstr ""
+
+#: bbp-jp-utility.php:380
+msgid "bbPress Forum nifty utility pack"
+msgstr ""
+
+#. Name of the plugin
+msgid "bbPress forum utility pack"
+msgstr ""
+
+#: bbp-jp-utility.php:427
+msgid "bbPress Topic / Reply Widget Style"
+msgstr ""
+
+#: bbp-jp-utility.php:27
+msgid "bbpress user"
+msgstr ""
+
+#: bbp-jp-utility.php:484
+msgid "bbpress user forbids access to Admin's Dashboard and Profile edit page."
+msgstr ""
+
+#: bbp-jp-utility.php:1007
+msgid "Check your email for the confirmation link."
+msgstr ""
+
+#: bbp-jp-utility.php:468
+msgid "Completely delete the account and posts data"
+msgstr ""
+
+#: bbp-jp-utility.php:486
+msgid "Create anonymous user for replacing posting data of unsubscribe user."
+msgstr ""
+
+#: bbp-jp-utility.php:443 bbp-jp-utility.php:458
+msgid "Delete"
+msgstr ""
+
+#: bbp-jp-utility.php:485
+msgid "Display link to forum root on Admin bar menu."
+msgstr ""
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr ""
+
+#: bbp-jp-utility.php:400
+msgid "Forum role of automatically registered bbpress user : "
+msgstr ""
+
+#: bbp-jp-utility.php:463
+msgid "Forum unsubscribe function"
+msgstr ""
+
+#: bbp-jp-utility.php:302
+msgid "Forum utility pack"
+msgstr ""
+
+#: bbp-jp-utility.php:412
+msgid "Forums url redirect"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://celtislab.net/"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://celtislab.net/wp_plugin_bbp_utility_pack/"
+msgstr ""
+
+#: bbp-jp-utility.php:420
+msgid "If it contains \"code\" tag to the post, replacing it with \"pre\" tag"
+msgstr ""
+
+#: bbp-jp-utility.php:421
+msgid "If the post does not contain Japanese treats as spam"
+msgstr ""
+
+#: bbp-jp-utility.php:396 bbp-jp-utility.php:466
+msgid "Invalid"
+msgstr ""
+
+#: bbp-jp-utility.php:214
+msgid "Last Login"
+msgstr ""
+
+#: bbp-jp-utility.php:487
+msgid "Load Japanese font designation CSS to TinyMCE editor used for posting."
+msgstr ""
+
+#: bbp-jp-utility.php:414
+msgid ""
+"Login from wp-login page of bbpress user is redirected to forums root page."
+msgstr ""
+
+#: bbp-jp-utility.php:405
+msgid ""
+"Multi-Site Option: Automatically give forum role of this site to bbpress "
+"user registered to other sites."
+msgstr ""
+
+#: bbp-jp-utility.php:595
+msgid "No"
+msgstr ""
+
+#: bbp-jp-utility.php:433
+msgid "Not logged in account after registration"
+msgstr ""
+
+#: bbp-jp-utility.php:471
+msgid ""
+"Note : Place the link for the \"unsubscribe\" in the forum of the user "
+"profile page. However, forum role is only to Participant or Spectator of "
+"bbpress user."
+msgstr ""
+
+#: bbp-sub-utility.php:209
+msgid "Recent 3 Reply"
+msgstr ""
+
+#: bbp-sub-utility.php:193
+msgid "Recent 3 Topic"
+msgstr ""
+
+#: bbp-jp-utility.php:448
+msgid "Recently not logged in account"
+msgstr ""
+
+#: bbp-jp-utility.php:483
+msgid "Record login date and time of bbpress user."
+msgstr ""
+
+#: bbp-jp-utility.php:194
+msgid "Registered"
+msgstr ""
+
+#: bbp-jp-utility.php:958
+msgid "Registration complete. Please check your email."
+msgstr ""
+
+#: bbp-jp-utility.php:482
+msgid ""
+"Replace user register / lostpass / login form template with Ajax version."
+msgstr ""
+
+#: bbp-jp-utility.php:272
+msgid "Reply"
+msgstr ""
+
+#: bbp-jp-utility.php:477
+msgid "Save Changes"
+msgstr ""
+
+#: bbp-jp-utility.php:388
+msgid "Setting"
+msgstr ""
+
+#: bbp-jp-utility.php:442 bbp-jp-utility.php:457
+msgid "The number of that account : "
+msgstr ""
+
+#: bbp-jp-utility.php:382
+msgid ""
+"This is a utility plugin that nifty to support the management of bbpress."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This is a utility plugin that nifty to support the management of bbpress. "
+"However, some features are the Japanese version only."
+msgstr ""
+
+#: bbp-jp-utility.php:467
+msgid "To delete the account, replacing the post data to anonymous"
+msgstr ""
+
+#: bbp-jp-utility.php:429
+msgid ""
+"To Widget of Recent Topics and Recent Replies. Mark up the author in div tag,"
+" and easy to read Japanese display."
+msgstr ""
+
+#: bbp-jp-utility.php:242
+msgid "Topic"
+msgstr ""
+
+#: bbp-jp-utility.php:418
+msgid "Topic / Reply Filter"
+msgstr ""
+
+#: bbp-jp-utility.php:566
+msgid "Unsubscribe"
+msgstr ""
+
+#: bbp-jp-utility.php:591
+msgid "Unsubscribe confirmation"
+msgstr ""
+
+#: bbp-jp-utility.php:695
+msgid "Unsubscribe procedure of the forum has been completed."
+msgstr ""
+
+#: bbp-jp-utility.php:703
+msgid ""
+"Unsubscribe procedure of the forum was not able to. Please contact us to the "
+"site."
+msgstr ""
+
+#: bbp-jp-utility.php:592
+msgid "Unsubscribe to the account will be deleted."
+msgstr ""
+
+#: bbp-jp-utility.php:408
+msgid ""
+"Used in place of \"Auto role\" setting of bbpress plugins. Set the forum "
+"role only to bbpress user."
+msgstr ""
+
+#: bbp-jp-utility.php:594
+msgid "Yes"
+msgstr ""

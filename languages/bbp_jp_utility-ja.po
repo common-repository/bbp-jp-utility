@@ -1,0 +1,304 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: bbp-jp-utility\n"
+"POT-Creation-Date: 2020-04-16 15:49+0900\n"
+"PO-Revision-Date: 2024-04-11 03:00+0000\n"
+"Last-Translator: enomoto@celtislab\n"
+"Language-Team: 日本語\n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.6.7; wp-6.5.2"
+
+#: bbp-jp-utility.php:450
+#| msgid ""
+#| "%s days are not logged in within. Delete the account that has not been "
+#| "recently logged in. (User posted data is replaced with anonymous)"
+msgid ""
+" days are not logged in within. Delete the account that has not been "
+"recently logged in. (User posted data is replaced with anonymous)"
+msgstr " 日以上ログインのないアカウントを退会扱いとして削除（関連する投稿データは匿名ユーザーに置き換え）"
+
+#: bbp-jp-utility.php:435
+#| msgid ""
+#| "%s days are not logged in within. Remove the accounts that are not also "
+#| "used once after such new registration."
+msgid ""
+" days are not logged in within. Remove the accounts that are not also used "
+"once after such new registration."
+msgstr ""
+" 日以内にログインがなく使用されていない新規登録アカウントの削除\n"
+
+#: bbp-jp-utility.php:957
+#| msgid "%s is your new username"
+msgid " is your new username"
+msgstr " があなたの新しいユーザー名です"
+
+#: bbp-jp-utility.php:423
+#| msgid ""
+#| "%s or more embedded (YouTube / X(Twitter) etc). Such a post will be "
+#| "treated as spam."
+msgid ""
+" or more embedded (YouTube / X(Twitter) etc). Such a post will be treated as "
+"spam."
+msgstr " 個以上のメディア埋め込み（YouTube / X(Twitter)等）がある投稿はスパムとします"
+
+#: bbp-jp-utility.php:422
+#| msgid "%s or more image. Such a post will be treated as spam."
+msgid " or more image. Such a post will be treated as spam."
+msgstr " 枚以上の画像が含まれている投稿はスパムとします"
+
+#: bbp-jp-utility.php:479
+msgid "[Always active functions]"
+msgstr "[常に有効な機能]"
+
+#: bbp-jp-utility.php:481
+msgid ""
+"Added \"bbpress user\" (bbp_user) to user role. (same capabilities as "
+"subscriber)"
+msgstr "権限グループに bbpress 登録ユーザー（bbp_user）を追加（購読者と同等の権限）"
+
+#: bbp-jp-utility.php:35
+msgid "Anonymous"
+msgstr "匿名"
+
+#: bbp-jp-utility.php:592
+msgid "Are you sure you want to unsubscribe from the forum."
+msgstr "フォーラムから退会しますか ?"
+
+#: bbp-jp-utility.php:394
+msgid "Auto role of bbpress user"
+msgstr "bbPress 登録ユーザーの自動権限"
+
+#: bbp-jp-utility.php:380
+msgid "bbPress Forum nifty utility pack"
+msgstr "bbPress フォーラム用のユーティリティ"
+
+#. Name of the plugin
+msgid "bbPress forum utility pack"
+msgstr "bbPress forum utility pack"
+
+#: bbp-jp-utility.php:427
+msgid "bbPress Topic / Reply Widget Style"
+msgstr "トピック／返信ウィジェットスタイル"
+
+#: bbp-jp-utility.php:27
+msgid "bbpress user"
+msgstr "bbPress 登録ユーザー"
+
+#: bbp-jp-utility.php:484
+msgid "bbpress user forbids access to Admin's Dashboard and Profile edit page."
+msgstr "bbpress 登録ユーザーのダッシュボード、プロフィール編集の管理ページへのアクセス制限"
+
+#: bbp-jp-utility.php:1007
+msgid "Check your email for the confirmation link."
+msgstr "メールに記載されている確認リンクをご確認ください"
+
+#: bbp-jp-utility.php:468
+msgid "Completely delete the account and posts data"
+msgstr "アカウントと関連する投稿データを完全に削除"
+
+#: bbp-jp-utility.php:486
+msgid "Create anonymous user for replacing posting data of unsubscribe user."
+msgstr "フォーラム退会ユーザーの投稿データを置き換える為の匿名ユーザー作成"
+
+#: bbp-jp-utility.php:443 bbp-jp-utility.php:458
+msgid "Delete"
+msgstr "削除"
+
+#: bbp-jp-utility.php:485
+msgid "Display link to forum root on Admin bar menu."
+msgstr "管理バーメニューにフォーラムルートへのリンク表示"
+
+#. Author of the plugin
+msgid "enomoto@celtislab"
+msgstr "enomoto@celtislab"
+
+#: bbp-jp-utility.php:400
+msgid "Forum role of automatically registered bbpress user : "
+msgstr "bbPress 登録ユーザーに自動的に付与するフォーラムの役割"
+
+#: bbp-jp-utility.php:463
+msgid "Forum unsubscribe function"
+msgstr "フォーラム退会機能"
+
+#: bbp-jp-utility.php:302
+msgid "Forum utility pack"
+msgstr "フォーラムユーティリティ"
+
+#: bbp-jp-utility.php:412
+msgid "Forums url redirect"
+msgstr "フォーラムページへのリダイレクト"
+
+#. Author URI of the plugin
+msgid "https://celtislab.net/"
+msgstr "https://celtislab.net/"
+
+#. URI of the plugin
+msgid "https://celtislab.net/wp_plugin_bbp_utility_pack/"
+msgstr "https://celtislab.net/wp_plugin_bbp_utility_pack/"
+
+#: bbp-jp-utility.php:420
+msgid "If it contains \"code\" tag to the post, replacing it with \"pre\" tag"
+msgstr "投降に含まれている \"code\" タグを \"pre\" タグに置き換え"
+
+#: bbp-jp-utility.php:421
+msgid "If the post does not contain Japanese treats as spam"
+msgstr "日本語が含まれていない投降はスパムとします"
+
+#: bbp-jp-utility.php:396 bbp-jp-utility.php:466
+msgid "Invalid"
+msgstr "無効"
+
+#: bbp-jp-utility.php:214
+msgid "Last Login"
+msgstr "前回のログイン"
+
+#: bbp-jp-utility.php:487
+msgid "Load Japanese font designation CSS to TinyMCE editor used for posting."
+msgstr "投稿時にフロントで使われる TinyMCE エディターに日本語フォントのCSS定義をロード"
+
+#: bbp-jp-utility.php:414
+msgid ""
+"Login from wp-login page of bbpress user is redirected to forums root page."
+msgstr "bbPress 登録ユーザーの wp-login ページからのログインをフォーラムページへリダイレクト "
+
+#: bbp-jp-utility.php:405
+msgid ""
+"Multi-Site Option: Automatically give forum role of this site to bbpress "
+"user registered to other sites."
+msgstr "マルチサイト用設定：他サイトに登録済みの bbpress ユーザーなら自動的にこのサイトのフォーラムにも登録して権限を与える"
+
+#: bbp-jp-utility.php:595
+msgid "No"
+msgstr "いいえ"
+
+#: bbp-jp-utility.php:433
+msgid "Not logged in account after registration"
+msgstr "登録後にログインのないアカウント"
+
+#: bbp-jp-utility.php:471
+msgid ""
+"Note : Place the link for the \"unsubscribe\" in the forum of the user "
+"profile page. However, forum role is only to Participant or Spectator of "
+"bbpress user."
+msgstr ""
+"※フォーラムのプロフィールページに \"フォーラム退会\" 用のリンクを設置します。但し、フォーラムの役割が \"参加者(Participant)\" "
+"または \"閲覧者(Spectator)\" の場合のみに限定します "
+
+#: bbp-sub-utility.php:209
+msgid "Recent 3 Reply"
+msgstr "最近の３返信"
+
+#: bbp-sub-utility.php:193
+msgid "Recent 3 Topic"
+msgstr "最近の３トピック"
+
+#: bbp-jp-utility.php:448
+msgid "Recently not logged in account"
+msgstr "最近ログインのないアカウント"
+
+#: bbp-jp-utility.php:483
+msgid "Record login date and time of bbpress user."
+msgstr "bbpress 登録ユーザーのログイン日時を記録"
+
+#: bbp-jp-utility.php:194
+msgid "Registered"
+msgstr "登録日"
+
+#: bbp-jp-utility.php:958
+msgid "Registration complete. Please check your email."
+msgstr "登録が完了しました。メールをご確認ください"
+
+#: bbp-jp-utility.php:482
+msgid ""
+"Replace user register / lostpass / login form template with Ajax version."
+msgstr "ユーザーの登録／パスワード紛失／ログインのフォームテンプレートを Ajax版へ置き換え"
+
+#: bbp-jp-utility.php:272
+msgid "Reply"
+msgstr "返信"
+
+#: bbp-jp-utility.php:477
+msgid "Save Changes"
+msgstr "変更を保存"
+
+#: bbp-jp-utility.php:388
+msgid "Setting"
+msgstr "設定項目"
+
+#: bbp-jp-utility.php:442 bbp-jp-utility.php:457
+msgid "The number of that account : "
+msgstr "該当アカウント数："
+
+#: bbp-jp-utility.php:382
+msgid ""
+"This is a utility plugin that nifty to support the management of bbpress."
+msgstr "bbPress フォーラムの管理をサポートするちょっと便利で気の利いたユーティリティパックです"
+
+#. Description of the plugin
+msgid ""
+"This is a utility plugin that nifty to support the management of bbpress. "
+"However, some features are the Japanese version only."
+msgstr ""
+"bbPress フォーラムの管理をサポートするちょっと気の利いたユーティリティパックです。いくつかの機能は日本語バージョン専用となっています。"
+
+#: bbp-jp-utility.php:467
+msgid "To delete the account, replacing the post data to anonymous"
+msgstr "アカウント削除（関連する投稿データは匿名ユーザーに置き換え）"
+
+#: bbp-jp-utility.php:429
+msgid ""
+"To Widget of Recent Topics and Recent Replies. Mark up the author in div tag,"
+" and easy to read Japanese display."
+msgstr "bbPress 日本語版の 最近のトピック／最近の返信ウィジェットの投稿者を div タグでマークアップして見やすくします"
+
+#: bbp-jp-utility.php:242
+msgid "Topic"
+msgstr "トピック"
+
+#: bbp-jp-utility.php:418
+msgid "Topic / Reply Filter"
+msgstr "トピック／返信のフィルタリング"
+
+#: bbp-jp-utility.php:566
+msgid "Unsubscribe"
+msgstr "フォーラム退会"
+
+#: bbp-jp-utility.php:591
+msgid "Unsubscribe confirmation"
+msgstr "退会確認"
+
+#: bbp-jp-utility.php:695
+msgid "Unsubscribe procedure of the forum has been completed."
+msgstr "フォーラムの退会手続きが完了しました"
+
+#: bbp-jp-utility.php:703
+msgid ""
+"Unsubscribe procedure of the forum was not able to. Please contact us to the "
+"site."
+msgstr "フォーラムの退会手続きが出来ませんでした。サイトへお問い合わせください。"
+
+#: bbp-jp-utility.php:592
+msgid "Unsubscribe to the account will be deleted."
+msgstr "退会するとアカウントが削除されます"
+
+#: bbp-jp-utility.php:408
+msgid ""
+"Used in place of \"Auto role\" setting of bbpress plugins. Set the forum "
+"role only to bbpress user."
+msgstr ""
+"この機能は bbPress プラグインの \"自動権限グループ \" の設定の代わりに使用することを想定し、より制限された条件で bbPress "
+"登録ユーザーのみにフォーラムの役割を自動付与します"
+
+#: bbp-jp-utility.php:594
+msgid "Yes"
+msgstr "はい"
